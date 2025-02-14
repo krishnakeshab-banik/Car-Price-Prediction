@@ -75,13 +75,13 @@ pip install pandas scikit-learn
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/krishnakeshab-banik/car-price-prediction.git
+   git clone https://github.com/krishnakeshab-banik/Car-Price-Prediction.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd car-price-prediction
+   cd Car-Price-Prediction
    ```
 
 3. **Install Required Modules:**
