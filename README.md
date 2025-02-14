@@ -1,7 +1,3 @@
-Below is a comprehensive README for your **Car Price Prediction** project:
-
----
-
 # Car Price Prediction
 
 This project entails developing a machine learning model to predict the selling price of cars based on multiple features. It covers the entire machine learning workflow—from data collection to model evaluation—using a Random Forest Regressor.
@@ -113,7 +109,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Author
 **Krishna Keshab Banik**  
 [LinkedIn](https://www.linkedin.com/in/krishna-keshab-banik-067819324/)
-
----
-
-Feel free to adjust any section or add additional details as your project evolves!
